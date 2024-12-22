@@ -1,0 +1,39 @@
+.create-post{
+    height: 100px;
+}
+
+.create-and-schedule{
+    background-color: hsl(31, 66%, 93%);
+    width: 200px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.create-and-schedule h1{
+    font-size: 40px;
+}
+
+.quicker{
+    color: hsl(256, 67%, 59%);
+}
+
+.social-media{
+    background-color: hsl(256, 67%, 59%);
+    padding: 30px;
+    color: white;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.social-media span{
+    color: hsl(39, 100%, 71%);
+
+}
+
+.social-media h1{
+    font-size: 90px;
+}
